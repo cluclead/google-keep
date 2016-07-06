@@ -1,0 +1,17 @@
+{
+  "title": "Google™ Keep",
+  "name": "igkeep",
+  "version": "0.1.1",
+  "description": "Google™ Keep is the easiest way to store your notes while you browse internet",
+  "main": "common.js",
+  "author": "Morni Colhkher, Philip Tholus",
+  "id": "jid1-fwmZMpUsa7AXKc@jetpack",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL 2.0",
+  "permissions": {
+    "private-browsing": true,
+    "multiprocess": true
+  }
+}
