@@ -1,0 +1,26 @@
+{
+  "name": "Notes in Google™ Keep",
+  "description": "Access to your notes while you browse internet",
+  "author": "Morni Colhkher",
+  "version": "0.1.1",
+  "manifest_version": 2,
+  "permissions": [
+    "storage",
+    "webview",
+    "browser",
+    "notifications"
+  ],
+  "app": {
+    "background": {
+      "scripts": [
+        "common.js"
+      ]
+    }
+  },
+  "icons": {
+    "16": "data/icons/16.png",
+    "48": "data/icons/48.png",
+    "120": "data/icons/120.png",
+    "128": "data/icons/128.png"
+  }
+}
